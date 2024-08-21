@@ -1,5 +1,4 @@
 *{
-    text-align: center;
     margin:0 ;
     padding: 0;
 }
@@ -35,7 +34,7 @@ footer{
 .img-perfil{
     width: 10%;
     border-radius: 50%;
-    width: 15%;
+    width: 20%;
 }
 
 .conteudo{
