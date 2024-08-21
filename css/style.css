@@ -1,38 +1,41 @@
 *{
+    text-align: center;
     margin:0 ;
     padding: 0;
 }
 
 body{
-    background-image: linear-gradient( to right,black, gray);
+    background-image: linear-gradient( to right,rgb(48, 47, 47), gray);
     font-family: Arial, sans-serif;
     
 }
 
 header{
-    color: rgb(5, 5, 5);
+    color: azure;
     text-align: center;
     padding: 1em;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 .txt-titulo{
-    text-shadow: 10px, 10px, 10px white;
+    text-shadow: 10px, 10px, 10px rgb(0, 0, 0);
 }
 
 header h2{
-    color: rgb(153, 153, 153)
+    color: (azure)
 }
 
 footer{
+    background-color: rgb(77, 77, 77);
     color: white;
     text-align: center;
-    padding: 1em;
+    padding: 1%;
 }
 
 .img-perfil{
     width: 10%;
     border-radius: 50%;
+    width: 15%;
 }
 
 .conteudo{
